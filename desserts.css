@@ -1,0 +1,41 @@
+.back-btn-container {
+    width: 100%;
+    background: transparent;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+h1 {
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin : 2rem;
+}
+
+.container-lg {
+    display: flex;
+    flex-wrap: wrap;
+    height : 45rem;
+    width : 120rem;
+    margin : 1rem;  
+}
+.items {
+    height :11rem;
+    width :40rem;
+    border :2px solid white;
+    margin :1.5rem;
+    padding : 0.5rem;
+    border-radius : 20px;
+    color : white;
+    background-color: rgb(51, 31, 31);
+}
+.items img {
+    height : 10rem;
+    width : 16rem;
+    border-radius: 20px;   
+}
+.items button{
+    background-color: yellow;
+    color:black;
+    border-radius: 0.7rem;
+    padding : 0 0.6rem 0 0.6rem;
+}

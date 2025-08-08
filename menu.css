@@ -1,0 +1,33 @@
+#main-div {
+    display:flex;
+    margin : 2rem;
+    margin-top : 4rem;
+    margin-left: ;
+}
+#card {
+    margin : 1.2rem;
+    padding : 0.2rem;
+    background-color: rgb(34, 30, 30);
+    color : white;
+    box-shadow :2px 2px 5px white;
+    /* height :20rem; */
+
+}
+#btn {
+    background-color: yellow;
+    color :black;
+    font-weight :400px;
+    text-shadow: 0 0 10px black;
+}
+#card:hover {
+    box-shadow : 4px 4px 1.2rem white;
+}
+.btn-lg button {
+    background-color: yellow;
+    color : black;
+    margin : 0 2rem;
+    font-size: 2rem;
+    border-radius : 0.5rem;
+    padding :0.4rem 1rem;
+    box-shadow: 2px 2px 10px white;
+}

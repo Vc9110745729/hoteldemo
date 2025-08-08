@@ -1,0 +1,61 @@
+img {
+    height :100vh;
+    width :100%;
+    margin : 20px solid yellow;
+    object-fit: cover;
+}
+.welcome h1 {
+    color : white;
+    position : absolute;
+    top : 36rem;
+    left :170rem;
+    font-size: 200px;
+    text-shadow: 0 0 20px white;
+}
+
+#menu-btn  {
+    position :absolute;
+    top : 6rem;
+    left : 270rem;
+    background-color: transparent;
+    font-size: 6.5rem;
+    border: none;
+    font-weight : 600;
+    /* height:100px;
+    width : 300px;
+    margin : 10px solid black;*/ 
+    padding : 1rem 5rem; 
+    border-radius: 25px;
+    color :white;
+    text-shadow: 0 0 15px white;
+    text-decoration:none;
+
+}
+#contact-btn {
+    position :absolute;
+    top : 6rem;
+    left : 305rem;
+    background-color: transparent;
+    font-size: 6.5rem;
+    border: none;
+    font-weight : 600;
+    /* height:100px;
+    width : 300px;
+    margin : 10px solid black;*/ 
+    padding : 1rem 5rem; 
+    border-radius: 25px;
+    color :white;
+    text-shadow: 0 0 15px white;
+    text-decoration:none;
+}
+
+#contact-btn:hover{
+    font-size: 7rem;
+    text-shadow: 0 0 25px white;
+
+}
+#menu-btn:hover{
+    font-size: 7rem;
+    text-shadow: 0 0 25px white;
+
+}
